@@ -30,7 +30,7 @@ readme.check('.')
 
 ## API
 
-*We need some more input for this. Too much flavours our there*
+*We need some more input for this. Too many flavours out there*
 
 ## Contributing
 
