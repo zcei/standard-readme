@@ -1,3 +1,7 @@
+**DRAFT STAGE**
+*Please [contribute in the issues](https://github.com/zcei/standard-readme/issues) to this evolving standard, as it makes no sense to define rules no one sticks to.*
+
+
 standard-readme
 ===============
 
