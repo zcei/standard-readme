@@ -1,4 +1,5 @@
 **DRAFT STAGE**
+
 *Please [contribute in the issues](https://github.com/zcei/standard-readme/issues) to this evolving standard, as it makes no sense to define rules no one sticks to.*
 
 
@@ -30,9 +31,10 @@ readme.check('.')
 
 ## API
 
-*We need some more input for this. Too many flavours out there*
+We need some more input for this.
+Consider sharing your opinion in [this issue](https://github.com/zcei/standard-readme/issues/3).
 
 ## Contributing
 
-Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/zcei/standard-readme/issues/new).  
+Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/zcei/standard-readme/issues/new).
 But before doing anything, please read the [CONTRIBUTING.md](./CONTRIBUTING.md) guidelines.
