@@ -47,13 +47,13 @@ The position of a child block is defined by its parent.
 * Structure of `--help` output
 * Can be more verbose
 
-## Contributing
+### Contributing
 
 * See default text in `standard-readme`s readme
 * (optional) Link to `CONTRIBUTING.md`
 * Should be the very last block before `License`
 
-## `Custom Block`
+### `Custom Block`
 
 * Everything not defined in this standard will just be linted to ensure proper markdown formatting (thanks to awesome [`remark-lint`](https://github.com/wooorm/remark-lint/))
 * Should come after required blocks, but before `License` block
